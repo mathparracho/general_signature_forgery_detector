@@ -15,7 +15,7 @@ from tqdm import tqdm
 import albumentations as A
 import matplotlib.pyplot as plt
 
-from architectures.siamese_triplet_resnet34 import TripletNetwork
+from architectures.resnet34_siamese_triplet import TripletNetwork
 
 writer = SummaryWriter()
 

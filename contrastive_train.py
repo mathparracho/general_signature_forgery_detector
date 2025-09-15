@@ -16,7 +16,7 @@ import matplotlib.pyplot as plt
 import torch.nn.functional as F
 import seaborn as sns
 
-from architectures.siamese_contrastive_resnet34 import ContrastiveNetwork
+from architectures.resnet34_siamese_contrastive import ContrastiveNetwork
 
 # =====
 SPLIT_FILES_DIR = os.getenv("SPLIT_FILES_DIR", "./data/split_files")
