@@ -1,0 +1,8 @@
+/data/
+/models/
+/runs/
+/single_data/
+/ensaios/
+/runs2/
+.neptune
+*__pycache__*
