@@ -1,4 +1,11 @@
-# Signature Verification Project
+# Signature Forgery Detection: Improving Cross-Dataset Generalization 
+
+## 📄 Paper
+
+This work is described in detail in the following preprint:
+
+[![arXiv](https://img.shields.io/badge/arXiv-2510.17724-b31b1b.svg)](https://arxiv.org/abs/2510.17724)
+
 
 This repository contains code and experiments for **offline handwritten signature verification** using **Siamese Networks**, **ResNet-based embeddings**, and **contrastive/triplet loss**.  
 The models are designed to generalize across multiple datasets such as **CEDAR**, **ICDAR**, and **GPDS**, as well as merged splits.
